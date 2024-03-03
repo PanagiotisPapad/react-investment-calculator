@@ -2,7 +2,7 @@
   "name": "react-essentials-practice",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://panagiotispapad.github.io/react-investment-calculator/",
+  "homepage": "https://panagiotispapad.github.io/react-investment-calculator",
   "type": "module",
   "scripts": {
     "dev": "vite",
